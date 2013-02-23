@@ -20,7 +20,7 @@ nécessaire d'homogéiniser la pratique des interventions de contrôle:
 
 -------------------------------------------------------------------------------------------------------------
 
-Le SYS aura pour autres rôles
+Le SIF aura pour autres rôles
 =============================
 
 - La mise en ligne d'une banque de connaissance et de savoir.
